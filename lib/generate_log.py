@@ -1,6 +1,7 @@
 from datetime import datetime
 import os
 
+# Great hints
 def generate_log(data):
     # TODO: Implement log generation logic
 
